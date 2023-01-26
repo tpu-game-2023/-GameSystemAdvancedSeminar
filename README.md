@@ -1,2 +1,1 @@
-# -GameSystemAdvancedSeminar
-ゲームシステム特論演習のためのページです
+# ゲームシステム特論演習
